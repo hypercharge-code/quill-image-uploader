@@ -1,7 +1,7 @@
 {
-	"name": "quill-image-uploader",
-	"version": "1.0.2",
-	"repository": "https://github.com/noeloconnell/quill-image-uploader.git",
+	"name": "@hypercharge/quill-image-uploader",
+	"version": "1.0.3",
+	"repository": "https://github.com/hypercharge-code/quill-image-uploader.git",
 	"description": "A module for Quill rich text editor to allow images to be uploaded to a server instead of being base64 encoded",
 	"main": "src/quill.imageUploader.js",
 	"eslintConfig": {
